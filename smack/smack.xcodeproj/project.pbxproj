@@ -15,6 +15,7 @@
 		5FD82CF02549E16E0017C612 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FD82CEF2549E16E0017C612 /* SWRevealViewController.m */; };
 		5FD82CF82549E6960017C612 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD82CF72549E6960017C612 /* ChatVC.swift */; };
 		5FD82CFC2549E6A90017C612 /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD82CFB2549E6A90017C612 /* ChannelVC.swift */; };
+		5FD82D002549EB5A0017C612 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD82CFF2549EB5A0017C612 /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		5FD82CEF2549E16E0017C612 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SWRevealViewController.m; path = "../../../../../Downloads/Smack Assets/SWReveal/SWRevealViewController.m"; sourceTree = "<group>"; };
 		5FD82CF72549E6960017C612 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		5FD82CFB2549E6A90017C612 /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		5FD82CFF2549EB5A0017C612 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		5FD82CF52549E6740017C612 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				5FD82CFF2549EB5A0017C612 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			files = (
 				5FD82CF82549E6960017C612 /* ChatVC.swift in Sources */,
 				5FD82CD82549CB130017C612 /* AppDelegate.swift in Sources */,
+				5FD82D002549EB5A0017C612 /* GradientView.swift in Sources */,
 				5FD82CDA2549CB130017C612 /* SceneDelegate.swift in Sources */,
 				5FD82CF02549E16E0017C612 /* SWRevealViewController.m in Sources */,
 				5FD82CFC2549E6A90017C612 /* ChannelVC.swift in Sources */,
